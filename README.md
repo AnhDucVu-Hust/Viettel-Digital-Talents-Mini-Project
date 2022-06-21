@@ -6,7 +6,7 @@ Preprocessing.ipynb: Tiền xử lý dữ liệu
 
 Gồm các model sau
 - BERT
-    - File ipynb: bert.ipynb
+    - File ipynb: bert_model.ipynb
     - Saved model: [bert.pt](https://drive.google.com/file/d/1j2in7kPlfaXntG1VACdtuhIBYgMgP9FJ/view?usp=sharing)
 - SVM
     - File ipynb: SVM.ipynb
